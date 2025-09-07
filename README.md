@@ -7,4 +7,6 @@ Just like with C# in Unity, it’s important to learn the language separately fr
 
 
 
-https://docs.godotengine.org/en/4.4/tutorials/scripting/gdscript/gdscript_basics.html
+Basic Code Manual: https://docs.godotengine.org/en/4.4/tutorials/scripting/gdscript/gdscript_basics.html
+Introduction: https://docs.godotengine.org/en/4.4/getting_started/introduction/index.html
+All class: https://docs.godotengine.org/en/4.4/classes/index.html
