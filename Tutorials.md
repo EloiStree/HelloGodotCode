@@ -1,1 +1,2 @@
 - https://godottutorials.com/courses/introduction-to-gdscript/
+  - https://www.youtube.com/channel/UCnr9ojBEQGgwbcKsZC-2rIg 
