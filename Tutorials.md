@@ -1,0 +1,1 @@
+- https://godottutorials.com/courses/introduction-to-gdscript/
